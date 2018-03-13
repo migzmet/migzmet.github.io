@@ -1,0 +1,58 @@
+<style>
+  .name {color: black;
+  size: 10;
+  font-family: Gothic Bold;}
+  .address {size:5;
+  }
+  body {background-image: url("jin(1).jpg");
+  font-family: Gothic Bold;
+  color: white;
+  }
+  .center {text-align:center;
+  }
+  .bullet {list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: Gothic Bold;
+  font-size: 25px;
+  overflow: hidden;
+  }
+  .inline {display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 30px;
+  float: right;
+  }
+  .inline:hover {background-color:white;
+  }
+  .head {display: inline;
+  color: white;
+  text-align: center;
+  padding: 14px 30px;
+  float: left;
+  font-size: 30px;
+  }
+  .head2 {display: inline;
+  color: white;
+  text-align: center;
+  padding: 1px 10px;
+  float: left;
+  font-size: 30px;
+  }
+  a {
+  text-decoration: none;
+  }
+  a:link {
+  color: white
+  }
+  a:visited {
+  color: white
+  }
+  a:active {
+  color: white
+  }
+  a:hover {
+  color: Black
+  }
+</style>
